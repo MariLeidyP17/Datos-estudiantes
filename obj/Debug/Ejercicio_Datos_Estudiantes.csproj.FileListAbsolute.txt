@@ -1,0 +1,10 @@
+C:\Users\Manue\Desktop\Ejercicios\Ejercicio_Datos_Estudiantes\bin\Debug\Ejercicio_Datos_Estudiantes.exe.config
+C:\Users\Manue\Desktop\Ejercicios\Ejercicio_Datos_Estudiantes\bin\Debug\Ejercicio_Datos_Estudiantes.exe
+C:\Users\Manue\Desktop\Ejercicios\Ejercicio_Datos_Estudiantes\bin\Debug\Ejercicio_Datos_Estudiantes.pdb
+C:\Users\Manue\Desktop\Ejercicios\Ejercicio_Datos_Estudiantes\obj\Debug\Ejercicio_Datos_Estudiantes.csproj.AssemblyReference.cache
+C:\Users\Manue\Desktop\Ejercicios\Ejercicio_Datos_Estudiantes\obj\Debug\Ejercicio_Datos_Estudiantes.Form1.resources
+C:\Users\Manue\Desktop\Ejercicios\Ejercicio_Datos_Estudiantes\obj\Debug\Ejercicio_Datos_Estudiantes.Properties.Resources.resources
+C:\Users\Manue\Desktop\Ejercicios\Ejercicio_Datos_Estudiantes\obj\Debug\Ejercicio_Datos_Estudiantes.csproj.GenerateResource.cache
+C:\Users\Manue\Desktop\Ejercicios\Ejercicio_Datos_Estudiantes\obj\Debug\Ejercicio_Datos_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Manue\Desktop\Ejercicios\Ejercicio_Datos_Estudiantes\obj\Debug\Ejercicio_Datos_Estudiantes.exe
+C:\Users\Manue\Desktop\Ejercicios\Ejercicio_Datos_Estudiantes\obj\Debug\Ejercicio_Datos_Estudiantes.pdb
